@@ -43,9 +43,9 @@
 
 ## 📌 Featured Projects
 
-- [🎯 JA-GEDO](https://github.com/gituhumwangi/ja-gedo) — Real-time engagement platform for construction services
-- [📊 Vivametrics](https://github.com/gituhumwangi/vivametrics) — Healthcare metrics dashboard with rich data visualization and user-friendly analytics
-- [🧠 MoodTracker](https://github.com/yourrepo/moodtracker) — Mental health tracker built with Flask and React
+- [🎯 JA-GEDO](https://github.com/derak-isaack/Jagedo-Hackathon) — Real-time engagement platform for construction services
+- [📊 Vivametrics](https://github.com/gituhumwangi/viva-frontend.git) — Healthcare metrics dashboard with rich data visualization and user-friendly analytics
+- [🍽️ DineFinder][(https://github.com/gituhumwangi/dinefinder](https://qula-website-b3yc-2844hm0lm-gituhumwangis-projects.vercel.app)) — Community-powered venue review app with image verification and smart recommendations
 ---
 
 ### 📊 GitHub Stats
