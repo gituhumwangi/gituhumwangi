@@ -11,6 +11,7 @@
 ### 🌱 Currently Learning
 - Docker & DevOps fundamentals  
 - System design and scalable architectures
+- Generative AI
 
 ---
 
