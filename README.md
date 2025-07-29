@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Dennis Gituhi Mwangi</h1>
+<h1 align="center">Hi there 👋, I'm Dennis Gituhu Mwangi</h1>
 
 <p align="center">
   🚀 Full-Stack Developer & Open Source Contributor<br/>
