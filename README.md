@@ -44,9 +44,9 @@
 
 ## 📌 Featured Projects
 
-- [🎯 JA-GEDO](https://github.com/derak-isaack/Jagedo-Hackathon) — Real-time engagement platform for construction services
-- [📊 Vivametrics](https://github.com/gituhumwangi/viva-frontend.git) — Healthcare metrics dashboard with rich data visualization and user-friendly analytics
--  [🧠 MoodTracker](https://github.com/ahmednoorzakaria/Healthcompanion) — Mental health tracker built with Flask and React
+- [🎯 JA-GEDO](https://jbis.vercel.app/) — This is a website where individuals register to attend a workshop hosted by JaGedo
+- [📊 Vivametrics](https://github.com/gituhumwangi/viva-frontend.git) — This is a monitoring and evaluation software that helps donors track their donations
+-  [🧠 AgriKonnect](https://github.com/gituhumwangi/agriKonnect) — Connecting African farmers to carbon markets through sustainable agriculture practices
 ---
 
 ### 📊 GitHub Stats
