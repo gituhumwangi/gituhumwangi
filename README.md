@@ -45,8 +45,6 @@
 ## 📌 Featured Projects
 
 - [🎯 JaGedo Builders Innovation Summit (JBIS)](https://jbis.vercel.app/) — This is a website where individuals register to attend a workshop hosted by JaGedo
-- [📊 Vivametrics](https://v0-vm-gamma.vercel.app/) — This is a monitoring and evaluation software that helps donors track their donations
--  [🧠 AgriKonnect](https://github.com/gituhumwangi/agriKonnect) — Connecting African farmers to carbon markets through sustainable agriculture practices
 ---
 
 ### 📊 GitHub Stats
